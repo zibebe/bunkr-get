@@ -1,2 +1,2 @@
-# bunkrl
-bunkrl: a simple CLI tool for downloading Bunkr Albums
+# bunkurl
+bunkurl: a simple CLI tool for downloading Bunkr Albums
